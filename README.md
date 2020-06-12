@@ -22,9 +22,9 @@ Hopefully I don't include anything that will come back to bite.
   - Stricter identification requirements for top ~1% ranks  
 
 ### Deterence:  
-  Give up on permabans? Isn't there always eventually a workaround?  
-  False positive quantification, defining and constraining cost  
-  Integrate with VAC  
+- Give up on permabans? Isn't there always eventually a workaround?  
+- False positive quantification, defining and constraining cost  
+- Integrate with VAC  
 
 ### Behavioral:  
 - Compensate players for running into cheaters, without making the system gameable  
