@@ -3,7 +3,8 @@ A place for collecting anti-cheat ideas that I find weird or compelling.
 Hopefully I don't include anything that will come back to bite.
 
 ### Detection:  
-- Quantifying impact of cheaters. Just player perception? If players don't notice, is ther a probelem?  
+- Quantifying impact of cheaters. Just player perception? If players don't notice, is there a probelem?  
+  - Quantifying perception across games. What does the same person think about CS, Overwatch, and Valorant?
 - Quantifying types of cheaters, the amount of damage they do. 
 - Is machine learning the end game? Or other automated systems? Manual banning seems like an ops nightmare.  
 - Weird features:  
@@ -37,10 +38,12 @@ Hopefully I don't include anything that will come back to bite.
 - Simple, open-source tools to help small devlopers protect themselves.  
 - Incorperating ideas from many genres? FPS, MMO, RTS, MOBA.  
 - Gaining knowledge from EAC and Battleye. Job opportunities?  
-- Collaborating with former (or current) cheat creation researchers.  
+- Collaborating with former and current cheat creation researchers.  
 
 ### Economic:  
-- Measuring elasticity of cheat demand. 
+- Measure economic impact of cheaters on current and past games.  
+- Convincing community, shareholds, and directors to support us.  
+- Measuring elasticity of cheat demand.  
 - Possible to undercut cheat providers? Or does supply just create more demand?  
 
 ### Developer Practices:  
