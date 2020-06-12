@@ -1,11 +1,11 @@
 # Weird Anti-Cheat Ideas
-A place for collecting anti-cheat ideas that I find weird or compelling.
+A place for collecting anti-cheat ideas that I find weird or compelling.  
 Hopefully I don't include anything that will come back to bite.
 
 ### Detection:  
 - Quantifying impact of cheaters. Just player perception? If players don't notice, is ther a probelem?  
 - Quantifying types of cheaters, the amount of damage they do. 
-- Is machine learning the end game? Or at least highly automated systems? Manual detection is a greusome treadmil.  
+- Is machine learning the end game? Or other automated systems? Manual banning seems like an ops nightmare.  
 - Weird features:  
   - Quantify aim skill relative to other skills (movement, inventory management)   
   - Drastic changes in some skill  
@@ -50,7 +50,9 @@ Hopefully I don't include anything that will come back to bite.
 - Communicate with commnunity in clearly designated cheat forum. Get player feedback, ideas, desires.  
 - Act like a duck.  
 - How transparent should you be about features? Should you be totally transparent if you can?  
-- How to avoid you, friends, family from being a target? Who would target you?
+- Stay safe
+  - Don't be a target. Would someone be incentivized to harm you or your friends?  
+  - Use good personal security practices.  
   
 ### Project management:  
 - Ideal anti-cheat team composition. Size, skills?  
