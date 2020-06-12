@@ -60,4 +60,5 @@ Misc:
   Custom game modes with wallhacks and easy aim, maybe speed. Modes with assymetric player power.  
   Legally taking down cheat providers.  
   Mobile constriants?  
-  Laying traps for cheat developers, easy exploits as bait.  
+  Laying traps for cheat developers, bait or directed evolution.  
+  Collaborating locally to secure different regions. Tencent for China.
