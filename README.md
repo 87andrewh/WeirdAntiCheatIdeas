@@ -20,17 +20,19 @@ Deterence:
   False positive quantification, defining and constraining cost  
 
 Behavioral:  
+  Compensate players for running into cheaters, without making the system gameable  
+  Rollback competitive game changes if a cheater is later detected  
   Incentivise players to help with crowdsourced detection  
   Increasing cheater cost of rentry, higher level for comp, price tag, 2FA  
      Sandbox highly skilled new accounts, or accounts with recently changed passwords or IP, or are behind a VPN  
-  Compensate players for running into cheaters, without making the system gameable  
+
 
 Industry Goals:
    Anti-cheat developer community of scale similar to anti-malware community? Journals? Conferences?  
+   Simple, open-source tools to help small devlopers protect themselves.  
    Incorperating ideas from many genres? FPS, MMO, RTS, MOBA.  
-   Gaining knowledge from EAC and Battleye  
+   Gaining knowledge from EAC and Battleye. Job opportunities?  
    Collaborating with former (or current) cheat creation researchers.  
-   Anti-cheat team composition  
 
 Economic:  
   Measuring elasticity of cheat demand. 
@@ -43,10 +45,13 @@ Developer Practices:
   Communicate with commnunity in clearly designated cheat forum. Get player feedback, ideas, desires.  
   Act like a duck.  
   How transparent should you be about features? Should you be totally transparent if you can?  
+  How to avoid you, friends, family from being a target? Who would target you?
   
 Project management:  
   Ideal anti-cheat team composition. Size, skills?  
+  Collaborating with security team?  
   How much labor to outsource to third parties. How deeply integrated should those systems be?  
+  Beta deploy features? Or just internal testing to full deploy? 
 
 Misc:  
   Trust factor depenidng on linked accounts. Integrate with Valve's trust factor.  
