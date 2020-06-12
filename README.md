@@ -5,7 +5,7 @@ Hopefully I don't include anything that will come back to bite.
 ### Detection:  
 - Quantifying impact of cheaters. Just player perception? If players don't notice, is there a probelem?  
   - Quantifying perception across games. What does the same person think about CS, Overwatch, and Valorant?
-- Quantifying types of cheaters, the amount of damage they do. 
+- Quantifying distribution of types of cheaters and tools, the amount of damage they do. 
 - Is machine learning the end game? Or other automated systems? Manual banning seems like an ops nightmare.  
 - Weird features:  
   - Quantify aim skill relative to other skills (movement, inventory management)   
@@ -31,6 +31,7 @@ Hopefully I don't include anything that will come back to bite.
 - Compensate players for running into cheaters, without making the system gameable  
 - Rollback competitive game changes if a cheater is later detected  
 - Incentivise players to help with crowdsourced detection  
+- Motivations of cheaters? 
 
 ### Industry Goals:
 - Anti-cheat developer community of scale similar to anti-malware community? Journals? Conferences?  
