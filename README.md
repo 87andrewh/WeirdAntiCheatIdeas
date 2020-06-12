@@ -7,25 +7,28 @@ Detection:
   Is machine learning the end game? Or at least highly automated systems? Manual detection is a greusome treadmil.  
   Weird features:  
     Quantify aim skill relative to other skills (movement, inventory management)  
-    Designing features that discourage blatant hacking  
+    Drastic changes in some skill  
+    Weird networking, changing IP, changing latency
+    Features that discourage blatant hacking  
   
 Prevention:  
   Occlusion culling / fog of war  
   Give up fighitng client-side code protection?  
     What can you do against hardware access?  
     How skilled are cheat developers?  
+  Increasing cheater cost of rentry, higher level for comp, price tag, 2FA  
+    Sandbox highly skilled new accounts, or accounts with recently changed passwords or IP, or are behind a VPN 
+    Stricter identification requirements for top ~1% ranks  
 
 Deterence:  
   Give up on permabans? Isn't there always eventually a workaround?  
   False positive quantification, defining and constraining cost  
+  Integrate with VAC  
 
 Behavioral:  
   Compensate players for running into cheaters, without making the system gameable  
   Rollback competitive game changes if a cheater is later detected  
   Incentivise players to help with crowdsourced detection  
-  Increasing cheater cost of rentry, higher level for comp, price tag, 2FA  
-     Sandbox highly skilled new accounts, or accounts with recently changed passwords or IP, or are behind a VPN  
-
 
 Industry Goals:
    Anti-cheat developer community of scale similar to anti-malware community? Journals? Conferences?  
