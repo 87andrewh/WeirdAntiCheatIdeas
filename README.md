@@ -1,5 +1,6 @@
-# WeirdAntiCheatIdeas
-A place for collecting anit-cheat ideas that I find weird or compelling. 
+# Weird Anti-Cheat Ideas
+A place for collecting anti-cheat ideas that I find weird or compelling.
+Hopefully I don't include anything that will come back to bite.
 
 ### Detection:  
 - Quantifying impact of cheaters. Just player perception? If players don't notice, is ther a probelem?  
