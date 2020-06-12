@@ -29,6 +29,7 @@ Behavioral:
 
 Industry Goals:
    Anti-cheat developer community of scale similar to anti-malware community? Journals? Conferences?  
+   How to incentize people working at competing companies to contribute?
    Simple, open-source tools to help small devlopers protect themselves.  
    Incorperating ideas from many genres? FPS, MMO, RTS, MOBA.  
    Gaining knowledge from EAC and Battleye. Job opportunities?  
