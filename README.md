@@ -12,7 +12,9 @@ Hopefully I don't include anything that will come back to bite.
   - Quantify aim skill relative to other skills (movement, inventory management)   
   - Drastic changes in some skill  
   - Weird networking, changing IP, changing latency
-  - Features that discourage blatant hacking  
+  - Knowledge of enemy positions
+  - Burst DPS
+  - Features that discourage blatant hacking
   
 ### Prevention:  
 - Occlusion culling / fog of war  
@@ -22,6 +24,7 @@ Hopefully I don't include anything that will come back to bite.
 - Increasing cheater cost of rentry, higher level for comp, price tag, 2FA  
   - Sandbox highly skilled new accounts, or accounts with recently changed passwords or IP, or are behind a VPN 
   - Stricter identification requirements for top ~1% ranks  
+- Foliage that matches pixel bot color.
 
 ### Deterence:  
 - Give up on permabans? Isn't there always eventually a workaround?  
