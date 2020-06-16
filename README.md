@@ -6,7 +6,8 @@ Hopefully I don't include anything that will come back to bite.
 - Quantifying impact of cheaters. Just player perception? If players don't notice, is there a probelem?  
   - Quantifying perception across games. What does the same person think about CS, Overwatch, and Valorant?
 - Quantifying distribution of types of cheaters and tools, the amount of damage they do. 
-- Is machine learning the end game? Or other automated systems? Manual banning seems like an ops nightmare.  
+- Is machine learning the end game? Or other automated systems? Manual banning seems like an ops nightmare.
+- Generating artificial cheat vs legitimate data by simulating bots with cheats vs no cheats.
 - Weird features:  
   - Quantify aim skill relative to other skills (movement, inventory management)   
   - Drastic changes in some skill  
