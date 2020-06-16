@@ -29,7 +29,8 @@ Hopefully I don't include anything that will come back to bite.
 ### Deterence:  
 - Give up on permabans? Isn't there always eventually a workaround?  
 - False positive quantification, defining and constraining cost  
-- Integrate with VAC  
+- Integrate with VAC 
+- Never ban. Isolate cheaters in their own servers. Give them their own leaderboards.
 
 ### Behavioral:  
 - Compensate players for running into cheaters, without making the system gameable  
