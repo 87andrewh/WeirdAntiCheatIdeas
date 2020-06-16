@@ -71,7 +71,7 @@ Hopefully I don't include anything that will come back to bite.
   - Potential to learn
   - Potential to make an impact
   - Potential to make connections
-  - $
+  - $? Not really.
 
 ### Misc:  
 - Trust factor depenidng on linked accounts. Integrate with Valve's trust factor.  
