@@ -84,12 +84,19 @@ Hopefully, I don't include anything that will come back to bite.
 - Stay safe
   - Don't be a target. Would someone be incentivized to harm you or your friends?  
   - Use good personal security practices.  
+
+### Community Interaction
+- Bad behavior is purely about player experience and perception
+- Survey community for perceptions and suggestions
+  - In game?
+  - Incentives to reply?
+  - Stratify based on skill, playtime, spendnding?
   
-### Project management:  
+### Project Management:  
 - Ideal anti-cheat team composition. Size, skills?  
 - Collaborating with security team?  
 - How much labor to outsource to third parties. How deeply integrated should those systems be?  
-- Beta deploy features? Or just internal testing to full deploy? 
+- Beta deploy features? Slow partial rollout? Playtest with pros? 
 
 ### Career:
 - Where to start working? Indie devs, studios, publishers, third-party solutions, cheaters?
