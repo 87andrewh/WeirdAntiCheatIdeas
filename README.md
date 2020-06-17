@@ -1,12 +1,13 @@
 # Weird Anti-Cheat Ideas
 A place for collecting anti-cheat ideas that I find weird or compelling.  
-Hopefully I don't include anything that will come back to bite.
+Hopefully, I don't include anything that will come back to bite.
 
 ### Detection:  
-- Quantifying impact of cheaters. Just player perception? If players don't notice, is there a probelem?  
+- Quantifying impact of cheaters. Just player perception? If players don't notice, is there a problem?  
+  - Reports / (players * playtime)? Stratify by skill, trust, spending?
   - Quantifying perception across games. What does the same person think about CS, Overwatch, and Valorant?
 - Quantifying distribution of types of cheaters and tools, the amount of damage they do. 
-- Is machine learning the end game? Or other automated systems? Manual banning seems like an ops nightmare.
+- Is machine learning the end game? Or other automated systems? When do bans have to be manual?
 - Generating artificial cheat vs legitimate data by simulating bots with cheats vs no cheats.
 - Weird features:  
   - Quantify aim skill relative to other skills (movement, inventory management)   
@@ -18,10 +19,10 @@ Hopefully I don't include anything that will come back to bite.
   
 ### Prevention:  
 - Occlusion culling / fog of war  
-- Give up fighitng client-side code protection?  
+- Give up fighting client-side code protection?  
   - What can you do against hardware access?  
   - How skilled are cheat developers?  
-- Increasing cheater cost of rentry, higher level for comp, price tag, 2FA  
+- Increasing cheater cost of reentry, higher level for comp, price tag, 2FA  
   - Sandbox highly skilled new accounts, or accounts with recently changed passwords or IP, or are behind a VPN 
   - Stricter identification requirements for top ~1% ranks  
 - Foliage that matches pixel bot color.
@@ -35,22 +36,22 @@ Hopefully I don't include anything that will come back to bite.
 ### Behavioral:  
 - Compensate players for running into cheaters, without making the system gameable  
 - Rollback competitive game changes if a cheater is later detected  
-- Incentivise players to help with crowdsourced detection  
+- Incentivize players to help with crowdsourced detection  
 - Reward cheaters for staying in isolated lobbies
 - Game modes that satisfy desires of cheaters
 
 ### Industry Goals:
 - Anti-cheat developer community of scale similar to anti-malware community? Journals? Conferences?  
-- How to incentize people working at competing companies to contribute?
-- Simple, open-source tools to help small devlopers protect themselves.  
-- Incorperating ideas from many genres? FPS, MMO, RTS, MOBA.  
+- How to incentivize people working at competing companies to contribute?
+- Simple, open-source tools to help small developers protect themselves.  
+- Incorporating ideas from many genres? FPS, MMO, RTS, MOBA.  
 - Gaining knowledge from EAC and Battleye. Job opportunities?  
 - Collaborating with former and current cheat creation researchers.
-- Specific companies to each out to:
+- Specific companies to reach out to:
   - Valve
   - Riot
   - EA
-  - Blizzzard | Activision
+  - Blizzard | Activision
   - Epic Games
   - Bungie
   - Ubisoft
@@ -58,18 +59,19 @@ Hopefully I don't include anything that will come back to bite.
   - Bohemia Interactive
   - New World Interactive
   - EAC, Battleye, Denuvo
+  - ESA, Fair Play Alliance
 
 ### Economic:  
 - Measure economic impact of cheaters on current and past games.  
-- Convincing community, shareholds, and directors to support us.  
+- Convincing community, shareholders, and directors to support us.  
 - Measuring elasticity of cheat demand.  
 - Possible to undercut cheat providers? Or does supply just create more demand?  
 
 ### Developer Practices:  
-- EAC dev reccomends to not announce ban waves (small numer looks lazy, big number normalizes cheating).  
-  - Still give feedback through indivdual ban announcements like Battleye?  
-- Don't interract with trolls on forums.  
-- Communicate with commnunity in clearly designated cheat forum. Get player feedback, ideas, desires.  
+- EAC dev recommends to not announce ban waves (small number looks lazy, big number normalizes cheating).  
+  - Still give feedback through individual ban announcements like Battleye?  
+- Don't interact with trolls on forums.  
+- Communicate with community in clearly designated cheat forum. Get player feedback, ideas, desires.  
 - Act like a duck.  
 - How transparent should you be about features? Should you be totally transparent if you can?  
 - Stay safe
@@ -83,7 +85,7 @@ Hopefully I don't include anything that will come back to bite.
 - Beta deploy features? Or just internal testing to full deploy? 
 
 ### Career:
-- Where to start working? Indie devs, studios, publishers, third party solutions, cheaters?
+- Where to start working? Indie devs, studios, publishers, third-party solutions, cheaters?
 - How to decide between offers?
   - Potential to learn
   - Potential to make an impact
@@ -91,10 +93,11 @@ Hopefully I don't include anything that will come back to bite.
   - $? Not really.
 
 ### Misc:  
-- Trust factor depenidng on linked accounts. Integrate with Valve's trust factor.  
+- Trust factor depending on linked accounts. Integrate with Valve's trust factor.  
 - Grouping cheaters together in games instead of banning.  
-- Custom game modes with wallhacks and easy aim, maybe speed. Modes with assymetric player power.  
+- Custom game modes with wallhacks and easy aim, maybe speed. Modes with asymmetric player power.  
 - Legally taking down cheat providers.  
-- Mobile constriants?  
+- Mobile constraints?  
 - Laying traps for cheat developers, bait or directed evolution.  
 - Collaborating locally to secure different regions. Tencent for China.
+- Speech to text to voice line?
