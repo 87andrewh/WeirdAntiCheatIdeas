@@ -30,13 +30,14 @@ Hopefully I don't include anything that will come back to bite.
 - Give up on permabans? Isn't there always eventually a workaround?  
 - False positive quantification, defining and constraining cost  
 - Integrate with VAC 
-- Never ban. Isolate cheaters in their own servers. Give them their own leaderboards.
+- Shadowban. Populate servers with some bots. Give them their own leaderboards.
 
 ### Behavioral:  
 - Compensate players for running into cheaters, without making the system gameable  
 - Rollback competitive game changes if a cheater is later detected  
 - Incentivise players to help with crowdsourced detection  
-- Motivations of cheaters? 
+- Reward cheaters for staying in isolated lobbies
+- Game modes that satisfy desires of cheaters
 
 ### Industry Goals:
 - Anti-cheat developer community of scale similar to anti-malware community? Journals? Conferences?  
@@ -44,7 +45,19 @@ Hopefully I don't include anything that will come back to bite.
 - Simple, open-source tools to help small devlopers protect themselves.  
 - Incorperating ideas from many genres? FPS, MMO, RTS, MOBA.  
 - Gaining knowledge from EAC and Battleye. Job opportunities?  
-- Collaborating with former and current cheat creation researchers.  
+- Collaborating with former and current cheat creation researchers.
+- Specific companies to each out to:
+  - Valve
+  - Riot
+  - EA
+  - Blizzzard | Activision
+  - Epic Games
+  - Bungie
+  - Ubisoft
+  - Dice
+  - Bohemia Interactive
+  - New World Interactive
+  - EAC, Battleye, Denuvo
 
 ### Economic:  
 - Measure economic impact of cheaters on current and past games.  
