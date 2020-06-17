@@ -51,6 +51,7 @@ Hopefully, I don't include anything that will come back to bite.
   - Valve
   - Riot
   - EA
+  - Tencent
   - Blizzard | Activision
   - Epic Games
   - Bungie
