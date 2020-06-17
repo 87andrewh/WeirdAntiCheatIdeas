@@ -9,6 +9,12 @@ Hopefully, I don't include anything that will come back to bite.
 - Quantifying distribution of types of cheaters and tools, the amount of damage they do. 
 - Is machine learning the end game? Or other automated systems? When do bans have to be manual?
 - Generating artificial cheat vs legitimate data by simulating bots with cheats vs no cheats.
+- Recording system optimizations:
+  - Shadowplay past 30 seconds of enemy
+- Reporting system optimizations:
+  - Labels in time
+  - Labels with type and degree
+  - Record abusive text and voice (legal?)
 - Weird features:  
   - Quantify aim skill relative to other skills (movement, inventory management)   
   - Drastic changes in some skill  
@@ -102,3 +108,8 @@ Hopefully, I don't include anything that will come back to bite.
 - Laying traps for cheat developers, bait or directed evolution.  
 - Collaborating locally to secure different regions. Tencent for China.
 - Speech to text to voice line?
+
+### Favorite talks
+https://www.gdcvault.com/play/1024994/Robocalypse-Now-Using-Deep-Learning
+https://www.gdcvault.com/play/1025804/Reporting-Metasystem-Design-and-Penalization
+https://www.gdcvault.com/play/1026757/What-Does-It-Take-to
