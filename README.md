@@ -105,6 +105,7 @@ Hopefully, I don't include anything that will come back to bite.
   - Potential to learn
   - Potential to make an impact
   - Potential to make connections
+  - Collaborative open-source spirit!
   - $? Not really.
 
 ### Misc:  
