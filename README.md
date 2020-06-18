@@ -9,6 +9,7 @@ Hopefully, I don't include anything that will come back to bite.
 - Quantifying distribution of types of cheaters and tools, the amount of damage they do. 
 - Is machine learning the end game? Or other automated systems? When do bans have to be manual?
 - Generating artificial cheat vs legitimate data by simulating bots with cheats vs no cheats.
+- Graph neural networks for unsupervised clustering of friend graphs.
 - Recording system optimizations:
   - Shadowplay past 30 seconds of enemy
 - Reporting system optimizations:
