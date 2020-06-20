@@ -10,6 +10,7 @@ Hopefully, I don't include anything that will come back to bite.
 - Is machine learning the end game? Or other automated systems? When do bans have to be manual?
 - Generating artificial cheat vs legitimate data by simulating bots with cheats vs no cheats.
 - Graph neural networks for unsupervised clustering of friend graphs.
+- Kaggle competition for classifiers. Why crowdsource just the labels?
 - Recording system optimizations:
   - Shadowplay past 30 seconds of enemy
 - Reporting system optimizations:
