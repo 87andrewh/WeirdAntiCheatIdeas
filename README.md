@@ -9,6 +9,7 @@ Hopefully, I don't include anything that will come back to bite.
 - Quantifying distribution of types of cheaters and tools, the amount of damage they do. 
 - Is machine learning the end game? Or other automated systems? When do bans have to be manual?
 - Generating artificial cheat vs legitimate data by simulating bots with cheats vs no cheats.
+  -  "Supervised deep learning systems can only be as good as their training datasets, but in self-play systems, the available data     improves automatically as the agent gets better." https://openai.com/blog/more-on-dota-2/
 - Graph neural networks for unsupervised clustering of friend graphs.
 - Kaggle competition for classifiers. Why crowdsource just the labels?
 - Recording system optimizations:
