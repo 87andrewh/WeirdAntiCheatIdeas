@@ -24,6 +24,8 @@ Hopefully, I don't include anything that will come back to bite.
   - Knowledge of enemy positions
   - Burst DPS
   - Features that discourage blatant hacking
+ - Inspiring architectures:
+   - https://d4mucfpksywv.cloudfront.net/emergent-tool-use/images/multi-agent-policy-architecture-20190904a.png
   
 ### Prevention:  
 - Occlusion culling / fog of war  
