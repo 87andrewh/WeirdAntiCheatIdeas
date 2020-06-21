@@ -102,6 +102,7 @@ Hopefully, I don't include anything that will come back to bite.
 - Collaborating with security team?  
 - How much labor to outsource to third parties. How deeply integrated should those systems be?  
 - Beta deploy features? Slow partial rollout? Playtest with pros? 
+- Leading people: https://www.youtube.com/watch?v=gRRvjZ_XNog
 
 ### Career:
 - Where to start working? Indie devs, studios, publishers, third-party solutions, cheaters?
