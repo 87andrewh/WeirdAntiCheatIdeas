@@ -63,6 +63,7 @@ Hopefully, I don't include anything that will come back to bite.
   - Tencent
   - OpenAI
   - Riot
+  - Chess.com
   - EA
   - Blizzard | Activision
   - Epic Games
