@@ -12,6 +12,7 @@ Hopefully, I don't include anything that will come back to bite.
   -  "Supervised deep learning systems can only be as good as their training datasets, but in self-play systems, the available data     improves automatically as the agent gets better." https://openai.com/blog/more-on-dota-2/
 - Graph neural networks for unsupervised clustering of friend graphs.
 - Kaggle competition for classifiers. Why crowdsource just the labels?
+- Proctoring major online tournaments.
 - Recording system optimizations:
   - Shadowplay past 30 seconds of enemy
 - Reporting system optimizations:
