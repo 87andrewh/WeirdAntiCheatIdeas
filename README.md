@@ -52,6 +52,14 @@ Hopefully, I don't include anything that will come back to bite.
 - Reward cheaters for staying in isolated lobbies
 - Game modes that satisfy desires of cheaters
 
+### Note on Hack vs. Hack
+- HvH can be a great mode with competitive integrity, save for problems with balance.
+- Hard to get into because it requires investment in VPN and VM/seperate machine.
+- Rewards decision making over mechanical aim in fights.
+- Rewards strategy and teamplay over positional gamesense and information control.
+- Rewards usage, tuning, and creation of tools.
+- Best case scenario, reduce cheating a little bit. Ineffective at deterring people who hack to win.
+
 ### Industry Goals:
 - Anti-cheat developer community of scale similar to anti-malware community? Journals? Conferences?  
 - How to incentivize people working at competing companies to contribute?
@@ -130,3 +138,4 @@ Hopefully, I don't include anything that will come back to bite.
 https://www.gdcvault.com/play/1024994/Robocalypse-Now-Using-Deep-Learning
 https://www.gdcvault.com/play/1025804/Reporting-Metasystem-Design-and-Penalization
 https://www.gdcvault.com/play/1026757/What-Does-It-Take-to
+https://www.youtube.com/watch?v=knvySXCNfd8
