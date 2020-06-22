@@ -69,9 +69,10 @@ Hopefully, I don't include anything that will come back to bite.
 - Collaborating with former and current cheat creation researchers.
 - Specific companies to reach out to:
   - Valve
+  - Riot
   - Tencent
   - OpenAI
-  - Riot
+  - Jagex
   - Chess.com
   - EA
   - Blizzard | Activision
