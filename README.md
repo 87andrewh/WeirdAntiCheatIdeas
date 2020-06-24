@@ -6,27 +6,30 @@ Hopefully, I don't include anything that will come back to bite.
 - Quantifying impact of cheaters. Just player perception? If players don't notice, is there a problem?  
   - Reports / (players * playtime)? Stratify by skill, trust, spending?
   - Quantifying perception across games. What does the same person think about CS, Overwatch, and Valorant?
-- Quantifying distribution of types of cheaters and tools, the amount of damage they do. 
+- Quantifying distribution of types of cheaters and tools, the amount of damage they do
 - Is machine learning the end game? Or other automated systems? When do bans have to be manual?
-- Generating artificial cheat vs legitimate data by simulating bots with cheats vs no cheats.
-  -  "Supervised deep learning systems can only be as good as their training datasets, but in self-play systems, the available data     improves automatically as the agent gets better." https://openai.com/blog/more-on-dota-2/
-- Graph neural networks for unsupervised clustering of friend graphs.
+- Generating artificial aimbot data with a GAN. Will basic smoothing aimbots be classified as abnormal?
+- Generating aimbot data from constrained self-play
+  -  "Supervised deep learning systems can only be as good as their training datasets, but in self-play systems, the available data improves automatically as the agent gets better." https://openai.com/blog/more-on-dota-2/
+- Graph neural networks for unsupervised clustering of friend graphs
 - Kaggle competition for classifiers. Why crowdsource just the labels?
-- Proctoring major online tournaments.
+- Proctoring major online tournaments. Feasibility, player support?
 - Recording system optimizations:
-  - Shadowplay past 30 seconds of enemy
+  - Hotkey to shadowplay past 30 seconds of enemy
 - Reporting system optimizations:
   - Labels in time
-  - Labels with type and degree
-  - Record abusive text and voice (legal?)
+  - Labels with type of hack and degree of certainty/severity
+  - Record abusive text and voice (legality?)
 - Weird features:  
   - Quantify aim skill relative to other skills (movement, inventory management)   
   - Drastic changes in some skill  
   - Weird networking, changing IP, changing latency
-  - Knowledge of enemy positions
+  - Knowledge of enemy positions, never clearing empty corners
   - Burst DPS
-  - Features that discourage blatant hacking
  - Inspiring architectures:
+   - Valve's GRU on raw mouse dynamics
+   - Transformer on unlabeled data to improve encoding
+   - Stack or average predictions of per-engagement models? Incorporate trust factor?
    - https://d4mucfpksywv.cloudfront.net/emergent-tool-use/images/multi-agent-policy-architecture-20190904a.png
   
 ### Prevention:  
@@ -37,11 +40,12 @@ Hopefully, I don't include anything that will come back to bite.
 - Increasing cheater cost of reentry, higher level for comp, price tag, 2FA  
   - Sandbox highly skilled new accounts, or accounts with recently changed passwords or IP, or are behind a VPN 
   - Stricter identification requirements for top ~1% ranks  
-- Foliage that matches pixel bot color.
+- Messing with pixel bots by changing in-game colors.
+- Feasibility of hardware security, secure enclaves
 
 ### Deterence:  
 - Give up on permabans? Isn't there always eventually a workaround?  
-- False positive quantification, defining and constraining cost  
+- False-positive quantification, defining and constraining cost  
 - Integrate with VAC 
 - Shadowban. Populate servers with some bots. Give them their own leaderboards.
 
@@ -50,15 +54,15 @@ Hopefully, I don't include anything that will come back to bite.
 - Rollback competitive game changes if a cheater is later detected  
 - Incentivize players to help with crowdsourced detection  
 - Reward cheaters for staying in isolated lobbies
-- Game modes that satisfy desires of cheaters
+- Game modes that satisfy the desires of cheaters
 
 ### Note on Hack vs. Hack
 - HvH can be a great mode with competitive integrity, save for problems with balance.
-- Hard to get into because it requires investment in VPN and VM/seperate machine.
+- Hard to get into because it requires investment in VPN and VM/separate machine.
 - Rewards decision making over mechanical aim in fights.
-- Rewards strategy and teamplay over positional gamesense and information control.
+- Rewards strategy and teamplay over positional game sense and information control.
 - Rewards usage, tuning, and creation of tools.
-- Best case scenario, reduce cheating a little bit. Ineffective at deterring people who hack to win.
+- Hopefully reduce casual cheating a little bit. Ineffective at deterring people who hack to win.
 
 ### Industry Goals:
 - Anti-cheat developer community of scale similar to anti-malware community? Journals? Conferences?  
@@ -82,39 +86,39 @@ Hopefully, I don't include anything that will come back to bite.
   - Dice
   - Bohemia Interactive
   - New World Interactive
+  - Other indies
   - EAC, Battleye, Denuvo
   - ESA, Fair Play Alliance
 
 ### Economic:  
-- Measure economic impact of cheaters on current and past games.  
-- Convincing community, shareholders, and directors to support us.  
-- Measuring elasticity of cheat demand.  
-- Possible to undercut cheat providers? Or does supply just create more demand?  
+- Measure economic impact of cheaters on current and past games
+- Convincing community, shareholders, and directors to support us
+- Measuring elasticity of cheat demand
+- Possible to undercut cheat providers? Or does supply just create more demand?
 
 ### Developer Practices:  
-- EAC dev recommends to not announce ban waves (small number looks lazy, big number normalizes cheating).  
-  - Still give feedback through individual ban announcements like Battleye?  
-- Don't interact with trolls on forums.  
-- Communicate with community in clearly designated cheat forum. Get player feedback, ideas, desires.  
-- Act like a duck.  
-- How transparent should you be about features? Should you be totally transparent if you can?  
+- EAC dev recommends to not announce ban waves (small number looks lazy, big number normalizes cheating)
+  - Still give feedback through individual ban announcements like Battleye?
+- Don't get baited by trolls. Only interact with polite users
+- Communicate with community in clearly designated cheat forum. Get player feedback, ideas, desires.
+- Act like a duck--calm above water.
+- How transparent should you be about features? Should you be totally transparent if you can? Does corporate want to maintain an advantage?
 - Stay safe
   - Don't be a target. Would someone be incentivized to harm you or your friends?  
-  - Use good personal security practices.  
+  - Use good personal security practices. 2FA, VM for dangerous work
 
 ### Community Interaction
-- Bad behavior is purely about player experience and perception
+- Success is mainly about player experience and perception
 - Survey community for perceptions and suggestions
-  - In game?
+  - Controlled in-game form, Google form, our forums, or Reddit?
   - Incentives to reply?
-  - Stratify based on skill, playtime, spendnding?
+  - Stratify based on skill, playtime, spending?
   
 ### Project Management:  
 - Ideal anti-cheat team composition. Size, skills?  
-- Collaborating with security team?  
+- Collaborating with infosec/security team?  
 - How much labor to outsource to third parties. How deeply integrated should those systems be?  
-- Beta deploy features? Slow partial rollout? Playtest with pros? 
-- Leading people: https://www.youtube.com/watch?v=gRRvjZ_XNog
+- Beta deploy features? Playtest with pros? Rollout in one game-mode? Random rollout with RCT?
 
 ### Career:
 - Where to start working? Indie devs, studios, publishers, third-party solutions, cheaters?
@@ -122,16 +126,16 @@ Hopefully, I don't include anything that will come back to bite.
   - Potential to learn
   - Potential to make an impact
   - Potential to make connections
-  - Collaborative open-source spirit!
-  - $? Not really.
+  - Open-source spirit!
+- Turn down a good offer for a chance of a better offer? Uncertainty of appraisal, expected utility
 
 ### Misc:  
 - Trust factor depending on linked accounts. Integrate with Valve's trust factor.  
 - Grouping cheaters together in games instead of banning.  
 - Custom game modes with wallhacks and easy aim, maybe speed. Modes with asymmetric player power.  
-- Legally taking down cheat providers.  
+- Legally taking down cheat providers. Studies on effectiveness? 
 - Mobile constraints?  
-- Laying traps for cheat developers, bait or directed evolution.  
+- Laying traps for cheat developers, bait, or directed evolution.  
 - Collaborating locally to secure different regions. Tencent for China.
 - Speech to text to voice line?
 
