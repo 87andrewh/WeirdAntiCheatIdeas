@@ -33,11 +33,13 @@ Hopefully, I don't include anything that will come back to bite.
    - https://d4mucfpksywv.cloudfront.net/emergent-tool-use/images/multi-agent-policy-architecture-20190904a.png
   
 ### Prevention:  
-- Occlusion culling / fog of war  
-- Give up fighting client-side code protection?  
+- Occlusion culling / fog of war
+- Increasing cheater cost of reentry, higher level for comp, price tag, 2FA
+- Preventing streamers from playing against suspicious accounts
+- Can you fight for client-side security?
   - What can you do against hardware access?  
   - How skilled are cheat developers?  
-- Increasing cheater cost of reentry, higher level for comp, price tag, 2FA  
+
   - Sandbox highly skilled new accounts, or accounts with recently changed passwords or IP, or are behind a VPN 
   - Stricter identification requirements for top ~1% ranks  
 - Messing with pixel bots by changing in-game colors.
