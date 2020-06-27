@@ -94,6 +94,7 @@ Hopefully, I don't include anything that will come back to bite.
 
 ### Economic:  
 - Measure economic impact of cheaters on current and past games
+- Consider studies on economics of drug industry
 - Convincing community, shareholders, and directors to support us
 - Measuring elasticity of cheat demand
 - Possible to undercut cheat providers? Or does supply just create more demand?
