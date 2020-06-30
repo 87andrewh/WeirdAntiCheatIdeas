@@ -77,15 +77,16 @@ Hopefully, I don't include anything that will come back to bite.
   - Valve
   - Riot
   - Tencent
-  - OpenAI
+  - EA
+  - DICE
+  - Epic Games
+  - PUBGC
   - Jagex
   - Chess.com
-  - EA
-  - Blizzard | Activision
-  - Epic Games
+  - Blizzard
+  - Activision
   - Bungie
   - Ubisoft
-  - Dice
   - Bohemia Interactive
   - New World Interactive
   - Other indies
