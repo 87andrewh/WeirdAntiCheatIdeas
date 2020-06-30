@@ -117,7 +117,12 @@ Hopefully, I don't include anything that will come back to bite.
   - Incentives to reply?
   - Stratify based on skill, playtime, spending?
   
-### Project Management:  
+### Project Management:
+- How to prioritize anti-cheat strategies?
+  - Impact
+  - Cost
+  - Robustness
+  - Community feedback
 - Ideal anti-cheat team composition. Size, skills?  
 - Collaborating with infosec/security team?  
 - How much labor to outsource to third parties. How deeply integrated should those systems be?  
