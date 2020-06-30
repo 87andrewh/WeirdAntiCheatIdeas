@@ -39,9 +39,8 @@ Hopefully, I don't include anything that will come back to bite.
 - Can you fight for client-side security?
   - What can you do against hardware access?  
   - How skilled are cheat developers?  
-
-  - Sandbox highly skilled new accounts, or accounts with recently changed passwords or IP, or are behind a VPN 
-  - Stricter identification requirements for top ~1% ranks  
+- Sandbox highly skilled new accounts, accounts with recently changed passwords or IP 
+- Stricter identification requirements for top ~1% ranks  
 - Messing with pixel bots by changing in-game colors.
 - Feasibility of hardware security, secure enclaves
 
@@ -49,7 +48,9 @@ Hopefully, I don't include anything that will come back to bite.
 - Give up on permabans? Isn't there always eventually a workaround?  
 - False-positive quantification, defining and constraining cost  
 - Integrate with VAC 
-- Shadowban. Populate servers with some bots. Give them their own leaderboards.
+- Ban alternatives
+  - Shadowban, use bots to supplement population
+  - Hacker league. Ranked hack vs hack only. Exclusive cosmetics. Incentivize AI bots.
 
 ### Behavioral:  
 - Compensate players for running into cheaters, without making the system gameable  
@@ -67,12 +68,11 @@ Hopefully, I don't include anything that will come back to bite.
 - Hopefully reduce casual cheating a little bit. Ineffective at deterring people who hack to win.
 
 ### Industry Goals:
-- Anti-cheat developer community of scale similar to anti-malware community? Journals? Conferences?  
+- Anti-cheat developer community of scale similar to security community. Journals? Conferences?  
 - How to incentivize people working at competing companies to contribute?
 - Simple, open-source tools to help small developers protect themselves.  
 - Incorporating ideas from many genres? FPS, MMO, RTS, MOBA.  
-- Gaining knowledge from EAC and Battleye. Job opportunities?  
-- Collaborating with former and current cheat creation researchers.
+- Collaborating with former and current cheat creators.
 - Specific companies to reach out to:
   - Valve
   - Riot
@@ -130,6 +130,7 @@ Hopefully, I don't include anything that will come back to bite.
 - Beta deploy features? Playtest with pros? Rollout in one game-mode? Random rollout with RCT?
 
 ### Career:
+- How to ramp up quickly and sustainably
 - Where to start working? Indie devs, studios, publishers, third-party solutions, cheaters?
 - How to decide between offers?
   - Potential to learn
