@@ -149,6 +149,9 @@ Hopefully, I don't include anything that will come back to bite.
 - Collaborating locally to secure different regions. Tencent for China.
 - Speech to text to voice line?
 
+### News
+(April 2020) https://www.pubg.com/en-us/2020/04/21/dev-letter-anti-cheat-performance-plans-for-2020/
+
 ### Favorite talks
 https://www.gdcvault.com/play/1024994/Robocalypse-Now-Using-Deep-Learning
 https://www.gdcvault.com/play/1025804/Reporting-Metasystem-Design-and-Penalization
