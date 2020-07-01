@@ -1,10 +1,17 @@
 # Weird Anti-Cheat Ideas
-A place for collecting anti-cheat ideas that I find weird or compelling.  
-Hopefully, I don't include anything that will come back to bite.
+A collection of anti-cheat ideas that I find compelling.
 
-### My Objective:
+## My Objective:
 - Minimize the impact of cheaters in FPS games by 2025
-- Convince competing companies to work together to make the pie bigger
+
+## Key Ideas:
+- VACNET-like and occlusion culling systems are robust--and should be standardized
+- Implement an unbiased player feedback collection, analysis, and reporting system
+  - Gather great ideas from the community
+  - Hold the community accountable for its own suggestions
+- Tie efforts with anti-harassment work
+  - Similar types of problems
+  - Encourages collaboration, as joint anti-harassment efforts are business-friendly
 
 ### Detection:  
 - Quantifying impact of cheaters. Just player perception? If players don't notice, is there a problem?  
@@ -64,7 +71,8 @@ Hopefully, I don't include anything that will come back to bite.
 - Game modes that satisfy the desires of cheaters
 
 ### Anti-Harassment
-- Break into missed market of women and underprivileged minorities
+- Harassment is unacceptable and likely causes more damage than cheaters
+- Market opportunity of making competitive games more accessible to women
 - Best punishment and rehabilitation policies?
 
 ### Industry Goals:
