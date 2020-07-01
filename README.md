@@ -161,10 +161,10 @@ A collection of anti-cheat ideas that I find compelling.
 - Speech to text to voice line?
 
 ### News
-(April 2020) https://www.pubg.com/en-us/2020/04/21/dev-letter-anti-cheat-performance-plans-for-2020/
+- (April 2020) https://www.pubg.com/en-us/2020/04/21/dev-letter-anti-cheat-performance-plans-for-2020/
 
 ### Favorite talks
-https://www.gdcvault.com/play/1024994/Robocalypse-Now-Using-Deep-Learning
-https://www.gdcvault.com/play/1025804/Reporting-Metasystem-Design-and-Penalization
-https://www.gdcvault.com/play/1026757/What-Does-It-Take-to
-https://www.youtube.com/watch?v=knvySXCNfd8
+- https://www.gdcvault.com/play/1024994/Robocalypse-Now-Using-Deep-Learning
+- https://www.gdcvault.com/play/1025804/Reporting-Metasystem-Design-and-Penalization
+- https://www.gdcvault.com/play/1026757/What-Does-It-Take-to
+- https://www.youtube.com/watch?v=knvySXCNfd8
