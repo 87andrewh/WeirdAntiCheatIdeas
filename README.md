@@ -120,9 +120,8 @@ Hopefully, I don't include anything that will come back to bite.
   
 ### Project Management:
 - How to prioritize anti-cheat strategies?
-  - Impact
+  - Impact (short/long term)
   - Cost
-  - Robustness
   - Community feedback
 - Ideal anti-cheat team composition. Size, skills?  
 - Collaborating with infosec/security team?  
