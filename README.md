@@ -130,12 +130,9 @@ Hopefully, I don't include anything that will come back to bite.
 
 ### Career:
 - How to ramp up quickly and sustainably
-- Where to start working? Indie devs, studios, publishers, third-party solutions, cheaters?
 - How to decide between offers?
-  - Potential to learn
-  - Potential to make an impact
-  - Potential to make connections
-  - Open-source spirit!
+  - Potential to learn and network
+  - Potential to make an impact (freedom, development resources, open-sourcing)
 - Turn down a good offer for a chance of a better offer? Uncertainty of appraisal, expected utility
 
 ### Misc:  
