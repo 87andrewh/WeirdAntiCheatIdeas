@@ -4,6 +4,7 @@ Hopefully, I don't include anything that will come back to bite.
 
 ### My Objective:
 - Minimize the impact of cheaters in FPS games by 2025
+- Convince competing companies to work together to make the pie bigger
 
 ### Detection:  
 - Quantifying impact of cheaters. Just player perception? If players don't notice, is there a problem?  
