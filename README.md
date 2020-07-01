@@ -63,13 +63,9 @@ Hopefully, I don't include anything that will come back to bite.
 - Reward cheaters for staying in isolated lobbies
 - Game modes that satisfy the desires of cheaters
 
-### Note on Hack vs. Hack
-- HvH can be a great mode with competitive integrity, save for problems with balance.
-- Hard to get into because it requires investment in VPN and VM/separate machine.
-- Rewards decision making over mechanical aim in fights.
-- Rewards strategy and teamplay over positional game sense and information control.
-- Rewards usage, tuning, and creation of tools.
-- Hopefully reduce casual cheating a little bit. Ineffective at deterring people who hack to win.
+### Anti-Harassment
+- Break into missed market of women and underprivileged minorities
+- Best punishment and rehabilitation policies?
 
 ### Industry Goals:
 - Anti-cheat developer community of scale similar to security community. Journals? Conferences?  
@@ -100,7 +96,7 @@ Hopefully, I don't include anything that will come back to bite.
 ### Economic:  
 - Measure economic impact of cheaters on current and past games
 - Consider studies on economics of drug industry
-- Convincing community, shareholders, and directors to support us
+- Getting community and corperate support. Expanding, shifting the pie?
 - Measuring elasticity of cheat demand
 - Possible to undercut cheat providers? Or does supply just create more demand?
 
@@ -125,7 +121,7 @@ Hopefully, I don't include anything that will come back to bite.
 ### Project Management:
 - How to prioritize anti-cheat strategies?
   - Impact (short/long term)
-  - Cost
+  - Cost (to develop and distribute)
   - Community feedback
 - Ideal anti-cheat team composition. Size, skills?  
 - Collaborating with infosec/security team?  
@@ -139,14 +135,21 @@ Hopefully, I don't include anything that will come back to bite.
   - Potential to make an impact (freedom, development resources, open-sourcing)
 - Turn down a good offer for a chance of a better offer? Uncertainty of appraisal, expected utility
 
+### Thouhts on Hack vs. Hack
+- Could be a mode with competitive integrity, save for problems with balance.
+- Hard to get into because it requires investment in VPN and VM/separate machine.
+- Rewards decision making over mechanical aim in fights.
+- Rewards strategy and teamplay over positional game sense and information control.
+- Rewards usage, tuning, and creation of tools.
+- Hopefully reduce casual cheating a little bit. Ineffective at deterring people who hack to win.
+
 ### Misc:  
-- Trust factor depending on linked accounts. Integrate with Valve's trust factor.  
-- Grouping cheaters together in games instead of banning.  
+- Examine MOBA market's response to Riot's anti-cheat
+- Trust factor, possible integrate with Valve's.  
 - Custom game modes with wallhacks and easy aim, maybe speed. Modes with asymmetric player power.  
 - Legally taking down cheat providers. Studies on effectiveness? 
-- Mobile constraints?  
 - Laying traps for cheat developers, bait, or directed evolution.  
-- Collaborating locally to secure different regions. Tencent for China.
+- Special considerations for Asian markets
 - Speech to text to voice line?
 
 ### News
