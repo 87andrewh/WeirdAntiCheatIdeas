@@ -2,6 +2,9 @@
 A place for collecting anti-cheat ideas that I find weird or compelling.  
 Hopefully, I don't include anything that will come back to bite.
 
+### My Objective:
+- Minimize the impact of cheaters in FPS games by 2025
+
 ### Detection:  
 - Quantifying impact of cheaters. Just player perception? If players don't notice, is there a problem?  
   - Reports / (players * playtime)? Stratify by skill, trust, spending?
