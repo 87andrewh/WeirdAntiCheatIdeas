@@ -10,9 +10,9 @@ A collection of anti-cheat ideas that I find compelling.
   - Occlusion culling systems prevent hard-to-detect wallhacks and are information-theoretically secure
 - Proctoring tournaments (camera recording mouse and monitor) increases competitive integrity
   - Greatly increases cheaters' risk of using obvious aim and wall hacks
-  - Can increase review efficiency with random sampling, community involvement, and motion tracking
+  - Can increase review efficiency with random sampling, community involvement, and machine learning
 - Implement an unbiased player feedback collection, analysis, and reporting system
-  - Gather great ideas from the community
+  - Gather diverse and great ideas
   - Hold the community accountable for its suggestions
 - Tie efforts with anti-harassment work
   - Similar types of problems
