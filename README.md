@@ -17,7 +17,7 @@ A collection of anti-cheat ideas that I find compelling.
 - Tie efforts with anti-harassment work
   - Similar types of problems
   - Harassment can cause more damage than cheaters
-  - Encourages collaboration, as joint anti-harassment efforts exist and are business-friendly
+  - Easy to find organizational support
 
 ### Detection:  
 - Quantifying impact of cheaters
@@ -78,9 +78,11 @@ A collection of anti-cheat ideas that I find compelling.
 - Again, incentivize cheaters to stay in isolated lobbies
 
 ### Anti-Harassment
-- Harassment is unacceptable and likely causes more damage than cheaters
-- Market opportunity of making competitive games more accessible to women
-- Best punishment and rehabilitation policies?
+- Harassment likely causes more damage than cheaters
+- Really easy to get organizational support
+- Best damage control and rehabilitation policies?
+- Harassment and hatred aren't specific to gaming, but it's enhanced by it.
+- How to cultivate a community that brings out the goodness in everyone?
 
 ### Industry Goals:
 - Encourage collaboration, publications, and conferences
@@ -172,3 +174,4 @@ A collection of anti-cheat ideas that I find compelling.
 - https://www.gdcvault.com/play/1025804/Reporting-Metasystem-Design-and-Penalization
 - https://www.gdcvault.com/play/1026757/What-Does-It-Take-to
 - https://www.youtube.com/watch?v=knvySXCNfd8
+- https://www.youtube.com/watch?v=C5qfKaVe89c
