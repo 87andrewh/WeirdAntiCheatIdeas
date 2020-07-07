@@ -6,18 +6,17 @@ A collection of anti-cheat ideas that I find compelling.
 
 ## Key Ideas:
 - Some anti-cheat systems are robustly secure, immune to client-side security arms race
-  - VACNET-like detection pipelines automatically combat visible cheating regardless of cheat method
+  - VACNET-like detection pipelines robustly model player perception of "cheaty-ness"
   - Occlusion culling systems prevent hard-to-detect wallhacks and are information-theoretically secure
+  - Damage control (rollbacks/compensation) alleviate the damage of even the most blatant cheats
 - Proctoring tournaments (camera recording mouse and monitor) increases competitive integrity
-  - Greatly increases cheaters' risk of using obvious aim and wall hacks
-  - Can increase review efficiency with random sampling, community involvement, and machine learning
 - Implement an unbiased player feedback collection, analysis, and reporting system
   - Gather diverse and great ideas
   - Hold the community accountable for its suggestions
 - Tie efforts with anti-harassment work
-  - Similar types of problems
-  - Harassment can cause more damage than cheaters
+  - Both problems have similar causes and solutions
   - Easy to find organizational support
+  - Harassment can cause more damage than cheaters
 
 ### Detection:  
 - Quantifying impact of cheaters
