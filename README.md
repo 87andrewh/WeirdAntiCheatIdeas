@@ -1,7 +1,5 @@
 # Weird Anti-Cheat Ideas
-A collection of anti-cheat ideas that I find compelling.
-
-## My Objective:
+## Objective:
 - Minimize the impact of cheaters in FPS games by 2025
 
 ## Key Ideas:
