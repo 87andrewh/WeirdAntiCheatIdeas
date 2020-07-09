@@ -146,6 +146,9 @@
   - Potential to learn and network
   - Potential to make an impact (freedom, development resources, open-sourcing, company vision)
 - Turn down a good offer for a chance of a better offer? Uncertainty of appraisal, expected utility
+- Conisder contracting:
+  - https://www.youtube.com/watch?v=R1aznQvqMQw
+  - Find a good attorney
 
 ### Thoughts on Hack vs. Hack
 - Could be a mode with competitive integrity, save for problems with balance.
