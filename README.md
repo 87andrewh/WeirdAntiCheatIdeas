@@ -161,6 +161,7 @@
 ### Misc:  
 - Examine MOBA market's response to Riot's anti-cheat
 - Trust factor, possibly integrate with Valve's.  
+  - Does trust factor increase cheat contagion?
 - Custom game modes with wallhacks and easy aim, maybe speed. Modes with asymmetric player power.  
 - Legally taking down cheat providers. Studies on effectiveness? 
 - Laying traps for cheat developers, bait, or directed evolution.  
