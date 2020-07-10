@@ -32,8 +32,8 @@
 - Kaggle competition for classifiers. Why crowdsource just the labels?
 - Cool features:
   - Trust factor
-  - Lack of non-aim skills (movement, decision making, crosshair placement)   
-  - Drastic changes in some skill  
+  - Lack of non-aim skills (movement, decision making, pre aim, discipline)
+  - Drastic changes in skill
   - Network access patterns
   - Knowledge of enemy positions, never looking in a direction without enemies
   - Burst DPS
