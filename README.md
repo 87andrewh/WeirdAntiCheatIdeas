@@ -32,7 +32,7 @@
 - Kaggle competition for classifiers. Why crowdsource just the labels?
 - Cool features:
   - Trust factor
-  - Aim skill relative to other skills (movement, decision making)   
+  - Lack of non-aim skills (movement, decision making, crosshair placement)   
   - Drastic changes in some skill  
   - Network access patterns
   - Knowledge of enemy positions, never looking in a direction without enemies
