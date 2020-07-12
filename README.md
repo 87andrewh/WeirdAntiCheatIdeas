@@ -66,6 +66,7 @@
 - Ban alternatives
   - Shadowban, use bots to supplement population
   - Make shadow pool engaging to cheaters with leaderboards and features. Unlikely to stop malicious types.
+  - Spyro DRM strategy. Pester cheaters in subtle ways that make them blame the game or the hack.
 
 ### Behavioral:  
 - Compensate players for running into cheaters, without making the system gameable  
