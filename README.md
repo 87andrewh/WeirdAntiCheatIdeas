@@ -4,7 +4,7 @@
 
 ## Key Ideas:
 - Some anti-cheat systems are robustly secure, immune to client-side security arms race
-  - VACNET-like detection pipelines robustly model player perception of "cheaty-ness"
+  - VACnet-like detection pipelines robustly model player perception of "cheaty-ness"
   - Occlusion culling systems prevent hard-to-detect wallhacks and are information-theoretically secure
   - Damage control (rollbacks/compensation) alleviate the damage of even the most blatant cheats
 - Proctoring tournaments (camera recording mouse and monitor) increases competitive integrity
@@ -23,12 +23,12 @@
   - Quantifying perception across many games
 - Quantifying distribution of types of cheaters and tools to prioritize targets
 - Proctoring major online tournaments
-- Implement efficient replay system for VACNET
-- Improved labels provided to VACNET
+- Implement efficient replay system
+- Improved labels provided to VACnet
   - Labels in time
   - Labels with type of hack and degree of certainty/severity
   - Record abusive text and voice (legality?)
-
+- How to use ML without infringing the VACnet patent?
 - Kaggle competition for classifiers. Why crowdsource just the labels?
 - Cool features:
   - Trust factor
