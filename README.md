@@ -18,11 +18,12 @@
 
 ### Detection:  
 - Quantifying impact of cheaters
-  - Reports / (players * playtime)? Stratify data by player skill, trust, spending?
+  - Reports / game? Stratify data by player skill, trust, spending?
   - Player retention
   - Quantifying perception across many games
 - Quantifying distribution of types of cheaters and tools to prioritize targets
 - Proctoring major online tournaments
+- "Help, he's definitely spinbotting" button.
 - Implement efficient replay system
 - Improved labels provided to VACnet
   - Labels in time
@@ -43,9 +44,9 @@
    - Stack or average predictions of per-engagement models?
    - https://d4mucfpksywv.cloudfront.net/emergent-tool-use/images/multi-agent-policy-architecture-20190904a.png
    - Graph neural networks for unsupervised clustering of social graphs
-- Generating artificial aimbot data with a GAN. Will basic smoothing aimbots be classified as abnormal?
+- Generating artificial aimbot data. Will basic smoothing aimbots be classified as abnormal?
 - Generating aimbot data from constrained self-play
-  -  "Supervised deep learning systems can only be as good as their training datasets, but in self-play systems, the available data improves automatically as the agent gets better." https://openai.com/blog/more-on-dota-2/
+  - https://openai.com/blog/more-on-dota-2/
   
 ### Prevention:  
 - Occlusion culling/fog of war
