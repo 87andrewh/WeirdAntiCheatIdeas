@@ -6,7 +6,7 @@
 - Some anti-cheat systems are robustly secure, immune to client-side security arms race
   - VACnet-like detection pipelines robustly model player perception of "cheaty-ness"
   - Occlusion culling systems prevent hard-to-detect wallhacks and are information-theoretically secure
-  - Damage control (rollbacks/compensation) alleviate the damage of even the most blatant cheats
+  - Damage control (rollbacks/rating freeze/compensation) alleviate the damage of even the most blatant cheats
 - Proctoring tournaments (camera recording mouse and monitor) increases competitive integrity
 - Implement an unbiased player feedback collection, analysis, and reporting system
   - Gather diverse and great ideas
@@ -71,6 +71,7 @@
 ### Behavioral:  
 - Compensate players for running into cheaters, without making the system gameable  
   - Rollback competitive game changes if a cheater is detected
+  - Freeze the ranking updates of a suspicious game for manual approval
   - Thank them for reporting cheaters
 - Incentivize players to help fight cheaters
 - Again, incentivize cheaters to stay in isolated lobbies
