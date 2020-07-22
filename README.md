@@ -25,6 +25,7 @@
 - Proctoring major online tournaments
 - "Help, he's definitely spinbotting" button.
 - Implement efficient replay system
+- Tweak systems to catch cheaters red-handed
 - Improved labels provided to VACnet
   - Labels in time
   - Labels with type of hack and degree of certainty/severity
