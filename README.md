@@ -62,8 +62,8 @@
 - Feasibility of hardware security, root of trust, enclaves
 
 ### Deterence:  
-- HWID and network bans--same issues as securing the client 
 - False-positive quantification, defining and constraining error budget  
+- Tiered sanctions, tets, and punishments--increasing with severity and probability of hacking
 - Integrate with VAC
 - Ban alternatives
   - Shadowban, use bots to supplement population
