@@ -23,14 +23,14 @@
   - Quantifying perception across many games
 - Quantifying distribution of types of cheaters and tools to prioritize targets
 - Proctoring major online tournaments
-- "Help, he's definitely spinbotting" button.
+- "Help, he's definitely spinbotting" button
 - Implement efficient replay system
 - Tweak systems to catch cheaters red-handed
-- Improved labels provided to VACnet
+- Baysian networks for estimating uncertainty
+- Improved labels provided to deep network
   - Labels in time
   - Labels with type of hack and degree of certainty/severity
   - Record abusive text and voice (legality?)
-- How to use ML without infringing the VACnet patent?
 - Kaggle competition for classifiers. Why crowdsource just the labels?
 - Cool features:
   - Trust factor
