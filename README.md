@@ -102,7 +102,7 @@
   - PUBGC
   - Blizzard / Activision
   - Jagex
-  - Chess.com
+  - Chess.com and poker sites
   - Bungie
   - Ubisoft
   - Bohemia Interactive
