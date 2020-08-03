@@ -58,7 +58,7 @@
   - What can you do against adversaries with physical access?  
 - Sandbox highly skilled new accounts, accounts with recently changed passwords or IP 
 - Stricter identification requirements for top ~1% ranks  
-- Messing with pixel bots by tweaking in-game colors
+- Messing with pixel bots by tweaking in-game colors. Noise or replacing red outlines with a lack of blue outlines.
 - Feasibility of hardware security, root of trust, enclaves
 
 ### Deterence:  
