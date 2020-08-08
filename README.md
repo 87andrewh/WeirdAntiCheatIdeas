@@ -26,7 +26,7 @@
 - "Help, he's definitely spinbotting" button
 - Implement efficient replay system
 - Tweak systems to catch cheaters red-handed
-- Baysian networks for estimating uncertainty
+- Unsupervised pretraining with transformers
 - Improved labels provided to deep network
   - Labels in time
   - Labels with type of hack and degree of certainty/severity
