@@ -26,12 +26,12 @@
 - "Help, he's definitely spinbotting" button
 - Implement efficient replay system
 - Tweak systems to catch cheaters red-handed
-- Unsupervised pretraining with transformers
 - Improved labels provided to deep network
   - Labels in time
   - Labels with type of hack and degree of certainty/severity
   - Record abusive text and voice (legality?)
 - Kaggle competition for classifiers. Why crowdsource just the labels?
+- Manually generated aimbot data, or clean labels extracted from client-side anti-cheat
 - Cool features:
   - Trust factor
   - Lack of non-aim skills (movement, decision making, pre aim, discipline)
@@ -41,7 +41,7 @@
   - Burst DPS
  - Inspiring architectures:
    - Valve's GRU on raw mouse dynamics
-   - Transformer and unsupervised pre-training to improve skill encoding
+   - Transformers to improve skill encoding
    - Stack or average predictions of per-engagement models?
    - https://d4mucfpksywv.cloudfront.net/emergent-tool-use/images/multi-agent-policy-architecture-20190904a.png
    - Graph neural networks for unsupervised clustering of social graphs
