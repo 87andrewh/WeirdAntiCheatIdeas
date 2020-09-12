@@ -3,18 +3,12 @@
 - Minimize the impact of cheaters in FPS games by 2025
 
 ## Key Ideas:
-- Some anti-cheat systems are robustly secure, immune to client-side security arms race
-  - VACnet-like detection pipelines robustly model player perception of "cheaty-ness"
-  - Occlusion culling systems prevent hard-to-detect wallhacks and are information-theoretically secure
-  - Damage control (rollbacks/rating freeze/compensation) alleviate the damage of even the most blatant cheats
-- Proctoring tournaments (camera recording mouse and monitor) increases competitive integrity
-- Implement an unbiased player feedback collection, analysis, and reporting system
-  - Gather diverse and great ideas
-  - Hold the community accountable for its suggestions
+- Some anti-cheat systems are more resilient to the arms race
+  - ML detection frameworks can robustly model cheats
+  - Occlusion culling systems prevent hard-to-detect wallhacks and are guaranteed to be secure
+- Automatic server side detections must be highly explainable anbd/or integrate with orthogonal methods
+- Proctoring tournaments with a camera for mouse and monitor
 - Tie efforts with anti-harassment work
-  - Both problems have similar causes and solutions
-  - Easy to find organizational support
-  - Harassment can cause more damage than cheaters
 
 ### Detection:  
 - Quantifying impact of cheaters
